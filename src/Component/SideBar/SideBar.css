@@ -1,0 +1,178 @@
+.a1{
+    width: 32% "aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"
+}
+.a2{
+    width: 45% "aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"
+}
+.a3{
+    width: 54% "aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"
+}
+.a4{
+    width: 65% "aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"
+}
+.a5{
+    width: 92% " aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"
+}
+.a6{
+    width: 62% " aria-valuenow="62" aria-valuemin="0" aria-valuemax="100"
+}
+.a7{
+    width: 40% " aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"
+}
+.a8{
+    width: 72% " aria-valuenow="72" aria-valuemin="0" aria-valuemax="100"
+}
+.a9{
+    width: 95% " aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"
+}
+.a10{
+    width: 87% " aria-valuenow="87" aria-valuemin="0" aria-valuemax="100"
+}
+
+ /* li.active :first-child i .theme-red .sidebar .menu .list li.active :first-child span {
+    color: blue;
+} */
+
+/* .sidebar .menu .list li.active > :first-child span{
+    color: red;
+} */
+/* .sidebar{
+    display: flex;
+} */
+
+.sidebar .menu .list a {
+    color: #03A9F4;
+    position: relative;
+    display: inline-flex;
+    vertical-align: middle;
+    width: 100%;
+     /* padding: 10px 13px;  */
+    height: 5.2rem;
+}
+.sidebar .menu .list a span{
+    color: #03A9F4;
+    white-space: nowrap;
+}
+
+.sidebar .menu .list a :hover{
+    color: #3F51B5;
+    /* border-right: 4px solid red; */
+    /* transition:  0.2s cubic-bezier(0.6, -0.28, 0.735, 0.045);
+    background:  gray; */
+}
+
+.dropdown-menu.pull-right {
+    /* right: 0;
+    left: auto; */
+    /* background: red; */
+    width: 100%;
+    padding: 2rem;
+}
+.dropdown-menu.pull-right li :hover{
+    /* color: blue; */
+    color: #3F51B5;
+   
+    /* ye logout ka hover ka color hai */
+    
+
+}
+.dropdown-menu.pull-right li{
+    color: #03A9F4;
+}
+
+
+
+
+/* .info-container{
+    background-color: red;
+} */
+.user-info{
+    height: 20rem;
+}
+
+
+
+
+.btn-group, .btn-group-vertical{
+    box-shadow: none;
+    font-weight: bolder;
+    width: 100%;
+    height: 4.5rem;
+   
+}
+.user-helper-dropdown :hover{
+    
+    cursor: pointer;
+}
+
+.graph{
+    color:#03A9F4;
+    /* display: inline-block; */
+    padding-left: 2rem;
+    float: left;
+    
+}
+.sidebar .menu {
+    /* position: relative; */
+    overflow-x: hidden;
+    height: 500px;
+    
+}
+
+
+
+
+
+
+.sidebar .user-info {
+    padding: 13px 15px 12px 15px;
+    white-space: nowrap;
+    position: relative;
+    border-bottom: 1px solid #e9e9e9;
+    background: url(https://thumbs.dreamstime.com/b/abstract-light-blue-background-vector-24500399.jpg);
+    background-repeat: no-repeat;
+    height: 155px;
+}
+
+.slideIcon{
+    float: right;
+    color: #fff;
+    position: relative;
+    /* top: 20px;
+    left: 10px; */
+    top: 8px;
+    left: 1px;
+    background: #3F51B5;
+    font-size: 30px;
+    cursor: pointer;
+}
+.image{
+    text-align: center;
+}
+.sidebar .user-info .image img{
+     position: absolute;
+    left: 9rem;
+}
+/* body{
+    overflow: visible; 
+        width: 6.5rem !important;
+    
+} */
+.bars{
+    width: 30px;
+}
+#analytics{
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+

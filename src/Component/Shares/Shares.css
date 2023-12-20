@@ -1,0 +1,29 @@
+.a1{
+    width: 177.2px ;
+    
+}
+.a2{
+    width: 285.2px;
+}
+.a3{
+    width: 129.2px;
+}
+.a4{
+    width: 62.2px;
+}
+.a5{
+    width: 121.2px;
+}
+.a6{
+    width: 99px;
+}
+
+
+
+label {
+    /* display: inline-block; */
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: bold;
+    float: right;
+}
