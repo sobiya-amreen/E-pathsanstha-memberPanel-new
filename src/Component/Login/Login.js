@@ -15,7 +15,7 @@ const Login = () => {
                     <img src="http://esanstha.aviratinfotech.com/logo/sr_logo.jpeg" width="50" height="50" alt="User"  />
                 </div>
       <h5>स्वामी रामानंद तीर्थ मराठवाडा विद्यापीठ</h5>
-      <h4>कर्मचारी सहकारी पतसंस्था मर्यादित,</h4>
+      <h5>कर्मचारी सहकारी पतसंस्था मर्यादित,</h5>
       <h5>विष्णुपुरी, नांदेड</h5>
       <form method="post">
         <hr/>
@@ -60,6 +60,8 @@ const Login = () => {
                                         </div>
                                     </div>
 
+                                    <button type="button" className="btn bg-indigo btn-block btn-lg waves-effect loginPageButton">Login</button>
+
 
 
         {/* <div class="txt_field">
@@ -68,10 +70,10 @@ const Login = () => {
           <label>Password</label>
         </div> */}
         {/* <div class="pass">Forgot Password?</div> */}
-        <input type="submit" value="Login"/>
+        {/* <input type="submit" value="Login"/>
         <div className="signup_link">
           {/* Not a member? <a href="#">Signup</a> */}
-        </div>
+        {/* </div> */} 
       </form>
     </div>
 

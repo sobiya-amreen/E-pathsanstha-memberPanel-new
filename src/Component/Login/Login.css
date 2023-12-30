@@ -71,3 +71,14 @@
     float: left;
     padding: 2rem;
   }
+
+  .loginPageButton{
+    /* color: aqua; */
+    height: 37px;
+    width: 150px;
+    padding-top: 4px;
+    margin-left: 70px;
+  }
+  .loginPageButton:hover{
+    color: #fff;
+  }
